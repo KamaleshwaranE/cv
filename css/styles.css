@@ -1,0 +1,81 @@
+
+body{
+  margin-top: 0;
+  text-align: center;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+h1{
+  margin-top: 50px;
+  width: 20%;
+  margin:50px auto 0px;
+
+}
+/*******************************class selector**********************************/
+.top{
+    background-color: #84DFFF;
+    height: 600px;
+    width: 100%;
+    padding-top: 100px;
+    padding-left: 20px;
+    position: relative;
+    padding-bottom: 10px;
+}
+.middle
+{
+background-color: #F5EEDC;
+height: 350px;
+width: 100%;
+padding: 20px 0px 0px 20px;
+}
+.mid-1{
+  text-align:inherit;
+}
+.bottom{
+  background-color: #DACC96;
+  height:150px;
+  width: 100%;
+  padding: 20px 0px 0px 20px;
+}
+.bottom1{
+  background-color: #9D5353;
+  height:200px;
+  width: 100%;
+padding: 20px 0px 0px 20px;
+}
+.bottom2{
+  background-color: #F3C5C5;
+  height:300px;
+  width: 100%;
+ padding: 20px 0px 0px 20px;
+}
+.kamaleshimg{
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  left: 300px;
+  top: 50px;
+  padding: 10px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+}
+.bottom-cloud{
+  position: absolute;
+
+}
+.mountain{
+  width: 800px;
+  height: 400px;
+}
+.skills{
+   margin-left: auto;
+   margin-right: auto;
+}
