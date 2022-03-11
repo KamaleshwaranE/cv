@@ -24,7 +24,11 @@ ul{
   list-style-position: inside;
 }
 
-
+ol{
+   text-align: center;
+  list-style-type: I;
+  list-style-position: inside;
+}
 
 /*******************************class selector**********************************/
 .top{
