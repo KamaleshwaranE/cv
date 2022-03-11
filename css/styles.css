@@ -43,6 +43,13 @@ padding: 20px 0px 0px 20px;
   width: 100%;
   padding: 20px 0px 0px 20px;
 }
+
+.internship{
+  cellspacing:10;
+  margin-left:auto;
+  margin-right: auto;
+}
+
 .bottom1{
   background-color: #9D5353;
   height:200px;
