@@ -1,4 +1,4 @@
-
+/******************************tag selector**************************************/
 body{
 background-color:#86C6F4;
   margin-top: 0;
@@ -17,6 +17,15 @@ h1{
   margin:50px auto 0px;
 
 }
+
+ul{
+  text-align: center;
+  list-style-type: square;
+  list-style-position: inside;
+}
+
+
+
 /*******************************class selector**********************************/
 .top{
     background-color: #84DFFF;
