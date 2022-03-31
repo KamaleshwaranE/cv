@@ -3,6 +3,7 @@ body{
 background-color:#86C6F4;
   margin-top: 0;
   text-align: center;
+  font-family: georgia, serif;
 }
 hr {
   border-style: none;
@@ -15,6 +16,7 @@ h1{
   margin-top: 50px;
   width: 20%;
   margin:50px auto 0px;
+  font-family: 'Sacramento', cursive;
 
 }
 
@@ -112,7 +114,7 @@ padding: 20px 0px 0px 20px;
   -webkit-border-radius: 13;
   -moz-border-radius: 13;
   border-radius: 13px;
-  font-family: Arial;
+  font-family: 'Sacramento', cursive;
   color: #ffffff;
   font-size: 28px;
   padding: 10px 20px 10px 20px;
