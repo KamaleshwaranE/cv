@@ -29,6 +29,9 @@ ol{
   list-style-type: I;
   list-style-position: inside;
 }
+a{
+  line-height:2;
+}
 
 /*******************************class selector**********************************/
 .top{
