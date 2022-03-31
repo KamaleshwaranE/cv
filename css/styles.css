@@ -99,6 +99,32 @@ padding: 20px 0px 0px 20px;
    margin-left: auto;
    margin-right: auto;
 }
+.btn {
+  background: #d9a3d5;
+  background-image: -webkit-linear-gradient(top, #d9a3d5, #2bb8ac);
+  background-image: -moz-linear-gradient(top, #d9a3d5, #2bb8ac);
+  background-image: -ms-linear-gradient(top, #d9a3d5, #2bb8ac);
+  background-image: -o-linear-gradient(top, #d9a3d5, #2bb8ac);
+  background-image: linear-gradient(to bottom, #d9a3d5, #2bb8ac);
+  -webkit-border-radius: 13;
+  -moz-border-radius: 13;
+  border-radius: 13px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 28px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
 .contact{
 background-color:#86C6F4;
 }
