@@ -81,10 +81,11 @@ padding: 20px 0px 0px 20px;
  padding: 20px 0px 0px 20px;
 }
 .kamaleshimg{
-  display: initial;
+  display: inherit;
   height: 200px;
   width: 200px;
   position: relative;
+  left: 300px;
   top: 50px;
   padding: 10px;
 }
