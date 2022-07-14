@@ -13,6 +13,7 @@ hr {
   width: 5%;
 }
 h1{
+  display:inline;
   margin-top: 50px;
   width: 20%;
   margin:50px auto 0px;
@@ -82,7 +83,7 @@ padding: 20px 0px 0px 20px;
 .kamaleshimg{
   height: 200px;
   width: 200px;
-  position: absolute;
+  position: relative;
   left: 300px;
   top: 50px;
   padding: 10px;
