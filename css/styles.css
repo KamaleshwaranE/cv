@@ -84,7 +84,7 @@ padding: 20px 0px 0px 20px;
   display: inherit;
   height: 200px;
   width: 200px;
-  position: relative;
+  position: static;
   left: 300px;
   top: 50px;
   padding: 10px;
@@ -134,4 +134,8 @@ padding: 20px 0px 0px 20px;
 }
 .contact{
 background-color:#86C6F4;
+}
+
+.tfirst{
+padding-left: 400px;
 }
