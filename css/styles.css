@@ -2,6 +2,7 @@
 body{
 background-color:#86C6F4;
   margin-top: 0;
+  margin-left:0;
   text-align: center;
   font-family: georgia, serif;
 }
@@ -199,4 +200,8 @@ background-color:#86C6F4;
 
 .tfirst{
 padding-left: 400px;
+}
+
+.last{
+  color:white;
 }
