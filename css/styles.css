@@ -68,18 +68,79 @@ padding: 20px 0px 0px 20px;
   margin-right: auto;
 }
 
-.bottom1{
+.bottom1 {
   background-color: #9D5353;
-  height:200px;
+  height: 1200px;
   width: 100%;
-padding: 20px 0px 0px 20px;
+  padding: 20px 0px 0px 20px;
 }
+
+.row {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+.column {
+  -ms-flex: 25%; /* IE10 */
+  flex: 25%;
+  max-width: 45%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+@media screen and (max-width: 800px) {
+  .column {
+    -ms-flex: 50%;
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    -ms-flex: 100%;
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+
+
+.big_data{
+  height: 337px;
+  width: 400px;
+}
+
+.ec2{
+  height: 337px;
+}
+
+.cloud_partner{
+  height: 337px;
+}
+
+.financial{
+  height: 309px;
+}
+
+.participate{
+  height: 309px;
+}
+
 .bottom2{
   background-color: #F3C5C5;
   height:300px;
   width: 100%;
  padding: 20px 0px 0px 20px;
 }
+
 .kamaleshimg{
   display: inherit;
   height: 200px;
